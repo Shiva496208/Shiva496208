@@ -20,7 +20,7 @@ I'm a dedicated B.Tech CSE student and an aspiring Software Developer with stron
 * 💡 Interested in **Backend Development**, **DSA**, **System Design**, and **Full‑Stack Projects**
 * 📚 Solving DSA problems daily to crack placements
 * 🔭 Currently learning **Node.js**, **Express**, and **React 19**
-* 🌱 Exploring **Cloud & DevOps basics**
+
 
 ---
 
